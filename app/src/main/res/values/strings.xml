@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NodeStudio</string>
+    <string name="runtime_setup_title">Initializing Node.js Runtime</string>
+    <string name="runtime_setup_subtitle">Provisioning sandboxed V8/QuickJS engine, npm client, and core modules</string>
+    <string name="projects_header_title">Workspaces</string>
+    <string name="projects_new_button">New Project</string>
+    <string name="studio_run_button">Run</string>
+    <string name="studio_stop_button">Stop</string>
+    <string name="tab_files">Files</string>
+    <string name="tab_editor">Editor</string>
+    <string name="tab_npm">npm</string>
+    <string name="tab_terminal">Terminal</string>
+</resources>

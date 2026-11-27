@@ -1,0 +1,6 @@
+{
+  "name": "NodeStudio",
+  "description": "Advanced mobile Node.js IDE, code editor with syntax highlighting, npm package manager, and interactive terminal runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
